@@ -2,7 +2,7 @@
 this is just a simple api.
 
 To run it locally,
-1 clobe ripo
+1 clone ripo
 2 create virtual environment
 3 cd to project directory install requirement.txt file 
 4 run python manage.py runserver.
